@@ -1,9 +1,8 @@
 package lvacademy;
 
 import java.util.Arrays;
-import java.util.Scanner;
 
-public class Main2 {
+public class SecondLesson {
     public static void main(String[] args) {
 
         // Arrays
